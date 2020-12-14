@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-
+// 'КАВО?'
 class QuestionDialog extends StatelessWidget {
   final String questionName;
   final bool isCloseButtonDisabled;
